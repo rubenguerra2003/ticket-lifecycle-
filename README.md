@@ -35,7 +35,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   User Ken creates a ticket:
 </p>
 <p>
-  <img src="https://i.imgur.com/ewueu9b.png: height="75%" width="100%" alt="Open a Ticket"/>
+  
+ ![ken makes ticket](https://github.com/user-attachments/assets/f977f710-c00f-470a-b5ce-a2fa502e4325)
+
 </p>
 <br />
 <br />
@@ -58,7 +60,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   He makes sure to leave a proper message:
 </p>
 <p>
-  <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
+  
+ ![put ticket to sev a](https://github.com/user-attachments/assets/703fc35d-1341-41e8-ac9a-63424859fbac)
+
 </p>
 <br />
 <br />
@@ -68,7 +72,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   System Administrator agent Jane Doe logs in:
 </p>
 <p>
-  <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
+  
+![jane logs in](https://github.com/user-attachments/assets/66990eac-88b8-4242-baa3-42e7c181ddd8)
+
 </p>
 <p>
   Agent Jane works the issue and communicates back to agent John.
@@ -77,7 +83,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   She also makes sure to switch the status of the issue from open to resolved:
 </p>
 <p>
-  <img src="https://i.imgur.com/DYPJufr.png" height="75%" width="100%" alt="Working the issue"/>
+  
+  ![jane solved problem](https://github.com/user-attachments/assets/421fa0c0-f8ca-4197-ab19-398012d6bc9c)
+
 </p>
 <br />
 <br />
@@ -87,7 +95,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
 </p>
 <p>
-  <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
+  
+ ![resolved](https://github.com/user-attachments/assets/1678946e-2604-495b-8a55-263e2b02019c)
+ 
 </p>
 <br />
 <br />
