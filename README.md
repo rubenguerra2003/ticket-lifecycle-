@@ -47,7 +47,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Support agent John Doe logs in.
 </p>
 <p>
-  <img src="https://i.imgur.com/i3sa7FH.jpg" height="75%" width="100%" alt="Support agent login"/>
+  
+![john logs in](https://github.com/user-attachments/assets/9618b87b-5d00-4f76-afe3-8d0ba007ec2f)
+
 </p>
 <br />
 <br />
